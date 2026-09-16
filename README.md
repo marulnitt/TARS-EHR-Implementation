@@ -13,3 +13,11 @@ Proof-of-concept implementation accompanying the paper *"TARS-EHR: [full paper t
 - Simulated append-only ledger
 
 ## Requirements
+
+## Running
+Open `tars_ehr.ipynb` in Jupyter or Google Colab and run cells top to bottom.
+
+## Note
+This is a research prototype in Python for correctness validation and relative
+performance trends, not an optimized production implementation. See the paper's
+Implementation and Performance Evaluation section for details and caveats.
